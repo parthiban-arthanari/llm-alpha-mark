@@ -1,0 +1,17 @@
+"Generate an 8-slide, professional pitch deck for a VP of Fixed Income Trading. The title is 'The LLM Signal Layer: Revolutionizing MBS Risk and P&L Accuracy.'
+
+The **tone must be strategic, data-driven, and authoritative.**
+
+**Audience:** Finance executives/quants.
+
+**Mandatory Slide Content and Structure:**
+1.  **Slide 1: Title & Vision.** (Focus on 'Subjectivity to Structure' transformation).
+2.  **Slide 2: Problem.** Highlight the 'Gap' in current risk marking assumptions (CPR, Funding Curve) due to scattered, unstructured information.
+3.  **Slide 3: Solution.** Introduce the LLM Signal Layer Architecture (Unstructured $\rightarrow$ Structured $\rightarrow$ Model Input).
+4.  **Slide 4: Deep Dive - Discount Curve.** Explain how LLM analyzes 'Funding Liquidity Sentiment' (Repo/OIS stress) to recommend switching to **I-Curve - FO** or **SOFR Swap**, justifying the change based on true cost of capital.
+5.  **Slide 5: Deep Dive - Prepayment Speed.** Explain how LLM analyzes 'Refinance Incentive Signals' to suggest a dynamic adjustment (e.g., +15% CPR/PSA) or recommend the **ABS** model for Autos.
+6.  **Slide 6: Trader Workflow.** Illustrate the integration: A 'Signal Panel' in the trading application with a 'One-Click Override' to apply LLM-derived inputs.
+7.  **Slide 7: Quantifying Value.** Introduce the **'LLM Sensitivity'** metric, showing the quantified dollar value difference in P&L and Duration between the trader's mark and the LLM-informed mark.
+8.  **Slide 8: Next Steps.** Propose a 2-Phase Pilot focusing on Agency RMBS (I-Curve-FO) first, followed by CMBS (Prepayment/SOFR).
+
+**Design Requirements:** Use a clean, dark, high-contrast theme suitable for a financial presentation. **Mandate a visual data diagram** on Slide 3 (Architecture) and Slide 7 (Sensitivity Table)."
